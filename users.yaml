@@ -1,0 +1,15 @@
+Users:
+  natasha:
+    CustomPosix: 20003:20003
+    Spaces:
+      natasha-jupyterlab:
+        type: JupyterLab
+      natasha-codeeditor:
+        type: CodeEditor
+  katherine:
+    CustomPosix: 20002:20002
+    Spaces:
+      katherine-jupyterlab:
+        type: JupyterLab
+      katherine-codeeditor:
+        type: CodeEditor
